@@ -1,4 +1,4 @@
-# hello-world
+# Trybe
 
 My first repository on GitHub
 
